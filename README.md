@@ -1,7 +1,3 @@
-`jangan lupa git pull`
-
-
-git clone
 
 ```bash
 cd moonbix
